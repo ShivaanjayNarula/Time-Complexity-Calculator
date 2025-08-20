@@ -1,4 +1,4 @@
-# Multi-Language Time Complexity Calculator 
+# Multi-Language Time Complexity Calculator
 
 A powerful web application that analyzes time and space complexity of code written in multiple programming languages using Google's Gemini AI.
 
@@ -45,7 +45,7 @@ A powerful web application that analyzes time and space complexity of code writt
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ShivaanjayNarula/Time-Complexity-Calculator
    cd TimeComplexityCalculator
    ```
 
