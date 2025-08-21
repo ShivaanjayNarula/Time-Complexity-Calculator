@@ -21,19 +21,9 @@ A powerful web application that analyzes time and space complexity of code writt
 - **C** - #include, int main, printf, etc.
 - **Go** - package main, func main, fmt.Println, etc.
 - **Rust** - fn main, println!, use, etc.
-- **PHP** - <?php, echo, function, $variables, etc.
-- **Ruby** - def, puts, class, require, etc.
 - **Swift** - import, func, print, class, etc.
 - **Kotlin** - fun main, println, import, class, etc.
 - **TypeScript** - interface, type, const: type, etc.
-- **C#** - using System, namespace, class, Console.WriteLine, etc.
-- **Scala** - object, def main, println, import, etc.
-- **Haskell** - module, main :: IO (), putStrLn, etc.
-- **Clojure** - (ns, (defn, (println, etc.
-- **F#** - open, let main, printfn, type, etc.
-- **Dart** - import 'dart:', void main, print, class, etc.
-- **Elixir** - defmodule, def, IO.puts, import, etc.
-- **Julia** - function, println, using, module, etc.
 
 ## 📋 Prerequisites
 
