@@ -25,6 +25,11 @@ A powerful web application that analyzes time and space complexity of code writt
 - **Kotlin** - fun main, println, import, class, etc.
 - **TypeScript** - interface, type, const: type, etc.
 
+## Snap-Shots
+
+<img width="1864" height="1504" alt="Screenshot 2025-08-21 at 3 39 03 PM" src="https://github.com/user-attachments/assets/c35c8c95-acfc-46ab-b4f6-1910c2b02479" />
+
+
 ## 📋 Prerequisites
 
 - Python 3.7 or higher
